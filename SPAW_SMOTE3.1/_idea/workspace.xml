@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b6a678-3c57-4da1-9117-fdcfe35e1b55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1yiiLDkZvI2jwBmiHYcRI2ypVTX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SP-SMOTE" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmObject\ZQannoy\dataset" />
+      <recent name="D:\PycharmObject\annoy\smote_variants" />
+      <recent name="D:\PycharmObject\annoy" />
+      <recent name="D:\PycharmObject\annoy\dataReading" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.overSamplingExe">
+    <configuration name="classifierEvaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="annoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifierEvaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataProcessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="annoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/dataProcessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="overSamplingExe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="annoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overSamplingExe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="removeNoise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="annoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/removeNoise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="annoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.overSamplingExe" />
+        <item itemvalue="Python.classifierEvaluation" />
+        <item itemvalue="Python.dataProcessing" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.removeNoise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b6a678-3c57-4da1-9117-fdcfe35e1b55" name="Default Changelist" comment="" />
+      <created>1632740758059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632740758059</updated>
+      <workItem from="1632740763462" duration="6042000" />
+      <workItem from="1632798253997" duration="3560000" />
+      <workItem from="1632809207245" duration="17809000" />
+      <workItem from="1632878721357" duration="2990000" />
+      <workItem from="1632885925791" duration="50000" />
+      <workItem from="1633156248682" duration="10705000" />
+      <workItem from="1633484010857" duration="7250000" />
+      <workItem from="1633503861175" duration="3639000" />
+      <workItem from="1633589786711" duration="8814000" />
+      <workItem from="1633609606932" duration="4528000" />
+      <workItem from="1633656260462" duration="4428000" />
+      <workItem from="1633660896426" duration="369000" />
+      <workItem from="1633661570983" duration="7278000" />
+      <workItem from="1633691878908" duration="1713000" />
+      <workItem from="1633748123619" duration="4443000" />
+      <workItem from="1633762865535" duration="63000" />
+      <workItem from="1633767431205" duration="2214000" />
+      <workItem from="1633770574340" duration="6431000" />
+      <workItem from="1633835093057" duration="1922000" />
+      <workItem from="1634020874005" duration="5511000" />
+      <workItem from="1634113505511" duration="5000" />
+      <workItem from="1634260184264" duration="600000" />
+      <workItem from="1634369169515" duration="4160000" />
+      <workItem from="1634457912652" duration="65000" />
+      <workItem from="1634540814123" duration="2502000" />
+      <workItem from="1634561060916" duration="246000" />
+      <workItem from="1634561403491" duration="3911000" />
+      <workItem from="1634627674047" duration="7673000" />
+      <workItem from="1634719175956" duration="3365000" />
+      <workItem from="1634736800366" duration="1235000" />
+      <workItem from="1634794918282" duration="619000" />
+      <workItem from="1634800241471" duration="9536000" />
+      <workItem from="1634877462526" duration="9320000" />
+      <workItem from="1634952250579" duration="11731000" />
+      <workItem from="1634979365120" duration="825000" />
+      <workItem from="1635036883358" duration="826000" />
+      <workItem from="1635037826570" duration="5126000" />
+      <workItem from="1635077502639" duration="2827000" />
+      <workItem from="1635140736829" duration="13877000" />
+      <workItem from="1635167846188" duration="1203000" />
+      <workItem from="1635215301540" duration="600000" />
+      <workItem from="1635233213557" duration="5215000" />
+      <workItem from="1635250140977" duration="2616000" />
+      <workItem from="1635296021359" duration="9834000" />
+      <workItem from="1635324197188" duration="9656000" />
+      <workItem from="1635383026704" duration="10150000" />
+      <workItem from="1635413610587" duration="669000" />
+      <workItem from="1635414558982" duration="7106000" />
+      <workItem from="1635431803230" duration="6094000" />
+      <workItem from="1635559491410" duration="8587000" />
+      <workItem from="1635644117284" duration="21708000" />
+      <workItem from="1635729617875" duration="55088000" />
+      <workItem from="1636084625860" duration="11471000" />
+      <workItem from="1636162228095" duration="9223000" />
+      <workItem from="1636175396598" duration="12842000" />
+      <workItem from="1636252080966" duration="7683000" />
+      <workItem from="1636271972392" duration="5186000" />
+      <workItem from="1636351334140" duration="1909000" />
+      <workItem from="1636353958666" duration="7413000" />
+      <workItem from="1636453209840" duration="5268000" />
+      <workItem from="1636503861414" duration="4334000" />
+      <workItem from="1636513820410" duration="5004000" />
+      <workItem from="1636527585631" duration="874000" />
+      <workItem from="1636595298575" duration="6947000" />
+      <workItem from="1636609637117" duration="5809000" />
+      <workItem from="1636622959428" duration="4301000" />
+      <workItem from="1636629909669" duration="2241000" />
+      <workItem from="1636681155960" duration="1065000" />
+      <workItem from="1636684273412" duration="5131000" />
+      <workItem from="1636694987960" duration="4894000" />
+      <workItem from="1636700426076" duration="6049000" />
+      <workItem from="1636768317466" duration="5584000" />
+      <workItem from="1636775280670" duration="2611000" />
+      <workItem from="1636782560553" duration="1494000" />
+      <workItem from="1636784092322" duration="14906000" />
+      <workItem from="1636875166068" duration="8080000" />
+      <workItem from="1636883815044" duration="479000" />
+      <workItem from="1636955319223" duration="1545000" />
+      <workItem from="1636960661135" duration="3889000" />
+      <workItem from="1637041842483" duration="3921000" />
+      <workItem from="1637046398326" duration="125000" />
+      <workItem from="1637054251383" duration="5066000" />
+      <workItem from="1637113596629" duration="1755000" />
+      <workItem from="1637137827816" duration="3113000" />
+      <workItem from="1637141545790" duration="1440000" />
+      <workItem from="1637147302116" duration="304000" />
+      <workItem from="1637194612755" duration="19888000" />
+      <workItem from="1637233797614" duration="345000" />
+      <workItem from="1637234199476" duration="933000" />
+      <workItem from="1637283637135" duration="7915000" />
+      <workItem from="1637299248383" duration="2274000" />
+      <workItem from="1637301682803" duration="3569000" />
+      <workItem from="1637305811807" duration="6931000" />
+      <workItem from="1637313148886" duration="3474000" />
+      <workItem from="1637374920223" duration="10114000" />
+      <workItem from="1637542211006" duration="1529000" />
+      <workItem from="1638256665705" duration="1541000" />
+      <workItem from="1638259589033" duration="2167000" />
+      <workItem from="1638408081001" duration="6779000" />
+      <workItem from="1638493848436" duration="5896000" />
+      <workItem from="1638500826839" duration="6382000" />
+      <workItem from="1638508982281" duration="11160000" />
+      <workItem from="1638582798357" duration="498000" />
+      <workItem from="1638583340785" duration="23711000" />
+      <workItem from="1638684589715" duration="5258000" />
+      <workItem from="1638707434061" duration="5922000" />
+      <workItem from="1638751619544" duration="6868000" />
+      <workItem from="1638782540717" duration="3450000" />
+      <workItem from="1638873352060" duration="16000" />
+      <workItem from="1638873403583" duration="2399000" />
+      <workItem from="1639480307258" duration="2119000" />
+      <workItem from="1639744403624" duration="1224000" />
+      <workItem from="1640077346659" duration="18000" />
+      <workItem from="1646118421729" duration="1245000" />
+      <workItem from="1646124130574" duration="5471000" />
+      <workItem from="1646136165313" duration="684000" />
+      <workItem from="1646533826208" duration="4433000" />
+      <workItem from="1646547689251" duration="1937000" />
+      <workItem from="1646565860838" duration="629000" />
+      <workItem from="1646568937176" duration="3002000" />
+      <workItem from="1646614394864" duration="3144000" />
+      <workItem from="1646636529322" duration="2228000" />
+      <workItem from="1646640264525" duration="1321000" />
+      <workItem from="1646724627020" duration="2060000" />
+      <workItem from="1646874200221" duration="4443000" />
+      <workItem from="1646891150277" duration="6007000" />
+      <workItem from="1647235030993" duration="411000" />
+      <workItem from="1647314852422" duration="3912000" />
+      <workItem from="1647331973256" duration="1462000" />
+      <workItem from="1647483389144" duration="7383000" />
+      <workItem from="1647520243883" duration="12839000" />
+      <workItem from="1647582604216" duration="2794000" />
+      <workItem from="1647601134006" duration="4911000" />
+      <workItem from="1647666373821" duration="3537000" />
+      <workItem from="1647830780637" duration="254000" />
+      <workItem from="1647852637566" duration="509000" />
+      <workItem from="1647864522510" duration="1156000" />
+      <workItem from="1647924664048" duration="3792000" />
+      <workItem from="1648091227125" duration="1298000" />
+      <workItem from="1648454074819" duration="12505000" />
+      <workItem from="1649318672719" duration="10000" />
+      <workItem from="1649379778561" duration="656000" />
+      <workItem from="1649380449659" duration="645000" />
+      <workItem from="1649381366731" duration="5351000" />
+      <workItem from="1649472678140" duration="628000" />
+      <workItem from="1649576220343" duration="293000" />
+      <workItem from="1649641779294" duration="3634000" />
+      <workItem from="1649761484842" duration="51000" />
+      <workItem from="1649761726375" duration="1633000" />
+      <workItem from="1650528511646" duration="263000" />
+      <workItem from="1654739305495" duration="153000" />
+      <workItem from="1658294208581" duration="3070000" />
+      <workItem from="1658365608999" duration="1470000" />
+      <workItem from="1658718013157" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="points" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/annoy$test.coverage" NAME="test Coverage Results" MODIFIED="1636170020550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$classifierEvaluation.coverage" NAME="classifierEvaluation Coverage Results" MODIFIED="1636180790772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$AND_Smote.coverage" NAME="AND_Smote Coverage Results" MODIFIED="1634630289255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy4_1$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1637306402860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$minClassLabel.coverage" NAME="minClassLabel Coverage Results" MODIFIED="1636790400615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$treeSpacePartingDim.coverage" NAME="treeSpacePartingDim Coverage Results" MODIFIED="1636791392557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_6$removeNoise.coverage" NAME="removeNoise Coverage Results" MODIFIED="1636962606121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$dataMat.coverage" NAME="dataMat Coverage Results" MODIFIED="1633488061251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy2_0$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636699872346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN1_0$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1646539188667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN2_2$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1647674376034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN3_0$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1648092082964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_7$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1637233396337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$treeSpaceParting.coverage" NAME="treeSpaceParting Coverage Results" MODIFIED="1635675488104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy2_0$removeNoise.coverage" NAME="removeNoise Coverage Results" MODIFIED="1636699043105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$densityAndCenter.coverage" NAME="densityAndCenter Coverage Results" MODIFIED="1636880070588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$min_class_label.coverage" NAME="min_class_label Coverage Results" MODIFIED="1635160326353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_1$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1638509369734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/annoy$Smote.coverage" NAME="Smote Coverage Results" MODIFIED="1635562065931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_3$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1638788745186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$datasetUCI.coverage" NAME="datasetUCI Coverage Results" MODIFIED="1635400972889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataReading" />
+    <SUITE FILE_PATH="coverage/annoy$treeSpacePartingDim.coverage" NAME="treeSpacePartingDim Coverage Results" MODIFIED="1636276480619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN2_0$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1646897423802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1635574830258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_4$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636884103284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636353236699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1638524624507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_2$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636783983815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_6$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1637141312908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy2_0$test.coverage" NAME="test Coverage Results" MODIFIED="1636697621853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$data.coverage" NAME="data Coverage Results" MODIFIED="1633487705147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$treeSVM.coverage" NAME="treeSVM Coverage Results" MODIFIED="1636005106435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN3_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1649645825891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636883144400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$overSamplingTest.coverage" NAME="overSamplingTest Coverage Results" MODIFIED="1635991823906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_0$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1638507007881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1635747749717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$tree.coverage" NAME="tree Coverage Results" MODIFIED="1635150066974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$treeSpaceKmeans.coverage" NAME="treeSpaceKmeans Coverage Results" MODIFIED="1635575791986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$annoydim2paint.coverage" NAME="annoydim2paint Coverage Results" MODIFIED="1635300052303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN2_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1647582350580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$overSamplingClur.coverage" NAME="overSamplingClur Coverage Results" MODIFIED="1635767992279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$test.coverage" NAME="test Coverage Results" MODIFIED="1636880577157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_6$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1646133977662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$classifierTest.coverage" NAME="classifierTest Coverage Results" MODIFIED="1635834851856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_6$densityAndCenter.coverage" NAME="densityAndCenter Coverage Results" MODIFIED="1636961836033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$dataxls.coverage" NAME="dataxls Coverage Results" MODIFIED="1633778586580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_2$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1638780412790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636781552262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$dannoy.coverage" NAME="dannoy Coverage Results" MODIFIED="1635041777725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_3$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1636883277180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/ZQannoy$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1636525325667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$densityAndCenter.coverage" NAME="densityAndCenter Coverage Results" MODIFIED="1635146355323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$treeSpaceCluster.coverage" NAME="treeSpaceCluster Coverage Results" MODIFIED="1635767687354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SPWSYN1_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1646636712311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$DBSCANtest.coverage" NAME="DBSCANtest Coverage Results" MODIFIED="1634372964721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy4_1$test.coverage" NAME="test Coverage Results" MODIFIED="1637286658633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_4$overSamplingExe.coverage" NAME="overSamplingExe 覆盖结果" MODIFIED="1639745542698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$treeSmote.coverage" NAME="treeSmote Coverage Results" MODIFIED="1636170324202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy$treeSpacePartingDim.coverage" NAME="treeSpacePartingDim Coverage Results" MODIFIED="1636357842252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy4_1$overSamplingExe.coverage" NAME="overSamplingExe Coverage Results" MODIFIED="1637542917365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy$test.coverage" NAME="test Coverage Results" MODIFIED="1636455177750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$dataPaint.coverage" NAME="dataPaint Coverage Results" MODIFIED="1634564198925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_0$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1638413114058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/annoy$imblearnUse__1_.coverage" NAME="imblearnUse (1) Coverage Results" MODIFIED="1633755040301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$datasetArff.coverage" NAME="datasetArff Coverage Results" MODIFIED="1634631263152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$datasetMat.coverage" NAME="datasetMat Coverage Results" MODIFIED="1633590950243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$datasetKeel.coverage" NAME="datasetKeel Coverage Results" MODIFIED="1636255929042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataReading" />
+    <SUITE FILE_PATH="coverage/annoy$datasetXls.coverage" NAME="datasetXls Coverage Results" MODIFIED="1635303696756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataReading" />
+    <SUITE FILE_PATH="coverage/ZQannoy5_2$classifierEvaluation.coverage" NAME="classifierEvaluation Coverage Results" MODIFIED="1638599339417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annoy$classifierEvaluation__1_.coverage" NAME="classifierEvaluation (1) Coverage Results" MODIFIED="1635838203729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy3_1$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1636771454126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/annoy$overSampling.coverage" NAME="overSampling Coverage Results" MODIFIED="1635299482649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZQannoy4_1$classifierEvaluation.coverage" NAME="classifierEvaluation Coverage Results" MODIFIED="1637375892914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
